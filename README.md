@@ -14,7 +14,7 @@ There are **2** tests initially, make the tests pass.
 
 ## Getting Started
 1. Clone this repository
-2. To retrieve all dependecies, run the command: `npm install`
+2. To retrieve all dependencies, run the command: `npm install`
 3. Your work will be done in the file named: `largest_palindrome_product.js`
 4. Run your test with the command: `npm test`
 5. There are two tests total. Make them pass!
